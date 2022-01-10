@@ -21,5 +21,6 @@ This generates an image based on the following variables:
     'color'=>imagecolorallocate($image, 55, 160, 130), // RGB Colour of the text
   );
 ```
-
-![Alt text](timer.png?raw=true "Optional Title")
+Sample
+<br><br>
+![Alt text](timer.PNG?raw=true "Optional Title")
