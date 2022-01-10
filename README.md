@@ -22,3 +22,4 @@ This generates an image based on the following variables:
   );
 ```
 
+![Alt text](timer.png?raw=true "Optional Title")
